@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "nuxt dev",
     "build": "nuxt build",
     "start": "nuxt start",
     "export": "nuxt export",
@@ -13,6 +13,7 @@
   "dependencies": {
     "bootstrap": "^4.5.0",
     "bootstrap-vue": "^2.15.0",
+    "cloudinary-vue": "^1.1.1",
     "nuxt": "^2.13.0"
   },
   "devDependencies": {}
